@@ -1,0 +1,25 @@
+#firstheading {
+    color: blue;
+}
+#secondheading {
+    color: red;
+}
+.redheading {
+    color: red;
+}
+
+.blueheading {
+    color: blue;
+}
+
+.bluetext {
+    color: blue;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+#gflogo {
+    width: 1000px;
+}
